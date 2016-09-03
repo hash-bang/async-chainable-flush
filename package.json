@@ -1,0 +1,24 @@
+{
+  "name": "async-chainable-flush",
+  "version": "1.0.0",
+  "description": "Wait for streams to flush before continuing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hash-bang/async-chainable-flush"
+  },
+  "license": "MIT",
+  "keywords": [
+    "async",
+    "async-chainable",
+    "cli",
+    "flush",
+    "stream"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "bugs": {
+    "url": "https://github.com/hash-bang/async-chainable-flush/issues"
+  },
+  "homepage": "https://github.com/hash-bang/async-chainable-flush",
+  "dependencies": {}
+}
